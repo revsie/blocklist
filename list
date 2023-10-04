@@ -1,3 +1,4 @@
 # My blocklist
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
+
+browser.sentry-cdn.com
+app.getsentry.com
